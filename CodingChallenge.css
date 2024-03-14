@@ -1,0 +1,74 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    font-family: "Montserrat", sans-serif;
+}
+
+main{
+    width: 1300px;
+    padding: 40px;
+    border-radius: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    background-color: rgba(0, 0, 0, .5);
+}
+
+img{
+    width: 300px;
+}
+
+nav{
+    width: 1000px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: greenyellow;
+    margin-bottom: 30px;
+}
+
+header > h1{
+        color: greenyellow;
+}
+
+section{
+    width: 1000px;
+    color: white;
+    display: inline-block;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+span{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+p{
+    margin: 0px;
+}
+
+div{
+    height: 30px;
+    border-radius: 10px;
+}
+
+#text_charge{
+    margin-bottom: 5px;
+}
+
+#gino_scooter_chargelevel{
+    width: 80px;
+    background-color: red;
+}
+
+#mike_scooter_chargelevel{
+    width: 400px;
+    background-color: orange;
+}
+
+#fede_scooter_chargelevel{
+    width: 800px;
+    background-color: greenyellow;
+}
